@@ -27,7 +27,7 @@
     ],
     'depends': ['account','payment'],
     'images': [
-        'static/description/logo.png',
+        'static/description/icon.png',
     ],
     'installable': True,
     'auto_install': False,
