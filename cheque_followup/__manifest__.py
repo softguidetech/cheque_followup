@@ -10,7 +10,7 @@
     'support': 'info@softguidetech.com',
     'website': 'https://softguidetech.com',
     'license': 'OPL-1',
-    'price': 65,
+    'price': 23,
     'currency': 'EUR',
     'data': [
         'security/ir.model.access.csv',
